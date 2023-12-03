@@ -1,5 +1,6 @@
 belajar lagi
 belajar2
 *belajar pull dan marge
-* memperkuat dasar php native
-* memperkuat dasar javascript
+*belajar laravel php
+*belajar vue javascript
+
